@@ -1,6 +1,6 @@
 # Image augmentation sandbox
 This repository showcases a variety of image augmentation samples created using the Albumentations library, offering effective techniques to enhance and transform images for machine learning and computer vision tasks.  
-<img src="https://github.com/rytisss/image_augmentation_sandbox/blob/feature/image_augmentation_cookbook_wiuth_albumentation/resource/capture.png" width="900"/> 
+<img src="https://github.com/rytisss/image_augmentation_sandbox/blob/feature/image_augmentation_cookbook_wiuth_albumentation/resource/capture.png" width="800"/> 
 ## Prerequisites
 
 1. You need [Python >=3.10](https://www.python.org/)
