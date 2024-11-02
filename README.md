@@ -1,2 +1,2 @@
-# image_augmentation_sandbox
+# Image augmentation sandbox
 This repository contains image augmentation samples
